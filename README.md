@@ -56,4 +56,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note:** Replace `https://github.com/oodlestechnologies/Scaffold-Training-2023.git` with the actual URL of your project's Git repository. Customize this template according to your project's specific requirements. Include additional sections or remove existing ones as necessary.
+**Note:** Replace `<link>` with the actual URL of your project's Git repository. Customize this template according to your project's specific requirements. Include additional sections or remove existing ones as necessary.
