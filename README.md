@@ -12,7 +12,7 @@ To get started with the Bull Queue Project, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/oodlestechnologies/Scaffold-Training-2023.git
+   git clone <link>
    ```
 2. Navigate to the project directory:
    ```bash
